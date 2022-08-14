@@ -8,3 +8,20 @@
 return 0;  
 }   
 
+
+//using switch case
+#include<stdio.h>  
+ int main()    
+{    
+switch(printf("hello world")){}    
+return 0;  
+}   
+
+
+//using while loop
+#include<stdio.h>  
+ int main()    
+{    
+   while(!printf("hello world")){}    
+return 0;  
+}   
